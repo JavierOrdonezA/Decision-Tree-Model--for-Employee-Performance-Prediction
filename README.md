@@ -1,4 +1,4 @@
-# Decision Trees for Employee Performance Prediction
+# Decision Tree Model for Employee Performance Prediction
 
 ## Project Description
 In this workshop, titled "Problem Solving with Decision Trees," we explore the application of decision trees to predict employee burnout based on various factors like education, previous job roles, and salary. Using a dataset that captures attributes related to employee performance and attrition, this project guides through the process of loading, preparing data, performing hyperparameter tuning, and evaluating the performance of the decision tree model.
