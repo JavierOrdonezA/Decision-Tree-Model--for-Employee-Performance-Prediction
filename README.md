@@ -6,8 +6,9 @@ In this workshop, titled "Problem Solving with Decision Trees," we explore the a
 ## Workshop Steps
 1. **Data Loading**: Load the dataset to be used in the analysis.
 2. **Data Preparation**: Prepare and clean the dataset for modeling.
-3. **Hyperparameter Tuning**: Optimize decision tree parameters using cross-validation.
-4. **Model Evaluation**: Evaluate the best model to predict employee performance outcomes.
+3. **Data Exploration** : Studying data distribution and correlations
+4. **Hyperparameter Tuning**: Optimize decision tree parameters using cross-validation.
+5. **Model Evaluation**: Evaluate the best model to predict employee performance outcomes.
 
 ## Technologies Used
 - Python: Main programming language used for data manipulation and modeling.
