@@ -30,3 +30,19 @@ For any inquiries, please contact the project lead:
 
 ## License
 This project is open-sourced under the MIT License. You are free to use, clone, and incorporate this project into your own projects. However, redistribution of this repository without any modifications or contributions is not permitted. 
+
+
+Feel free to explore the projects and their solutions in the respective directories.
+👾 Happy coding! 🥷
+---
+
+
+
+**F. J. Ordonez Araujo (fordonezaraujo@gmail.com)**
+
+
+Thanks For Watching This Repository!
+
+**KEEP AWESOME & STAY COOL!** 😎
+
+Feel Free To Fork And Report If You Find Any Issue :)
